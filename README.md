@@ -15,12 +15,12 @@
 </p>
 
 - 🔭 I’m currently working on my side projects
-- 🌱 I’m currently learning software architecture
+- 🌱 I’m currently learning BackEnd development
 - 👯 I’m looking to collaborate on your open source projects
-- 💬 Ask me about C#
+- 💬 Ask me about Idk
 - 📫 How to reach me: Contact part
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never thought I would become a .net programmer!
+- ⚡ Fun fact: Iam Batman!
 
 <br>
 
