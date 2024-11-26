@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Faiz Firmansyah</h1>
 <h3 align="center">A passionate BackEnd developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning Python
 
 - 😄 Pronouns **I, you, he, it, they, this**
 
